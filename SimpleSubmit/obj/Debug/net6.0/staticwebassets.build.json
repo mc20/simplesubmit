@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "zvv8/Yc1bNw6+QlXZDQRiqby1RHMzFw4+FJ2lC7ZYFM=",
+  "Source": "SimpleSubmit",
+  "BasePath": "_content/SimpleSubmit",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SimpleSubmit\\wwwroot",
+      "Source": "SimpleSubmit",
+      "ContentRoot": "C:\\Users\\mikec\\source\\repos\\SimpleSubmit\\SimpleSubmit\\wwwroot\\",
+      "BasePath": "_content/SimpleSubmit",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mikec\\source\\repos\\SimpleSubmit\\SimpleSubmit\\wwwroot\\index.html",
+      "SourceId": "SimpleSubmit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mikec\\source\\repos\\SimpleSubmit\\SimpleSubmit\\wwwroot\\",
+      "BasePath": "_content/SimpleSubmit",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

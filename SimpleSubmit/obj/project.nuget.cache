@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EHAu+KVHgafp73TyADNWQxnCbfASRpEb0vfo6/uhEe0c3AQJmrgngbcvtl7xYraAe4gJvdyJvf0IYGn6/NmkcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikec\\source\\repos\\mc20\\simplesubmit\\SimpleSubmit\\SimpleSubmit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikec\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mikec\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mikec\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mikec\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mikec\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mikec\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
